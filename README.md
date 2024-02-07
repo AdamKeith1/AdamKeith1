@@ -34,5 +34,4 @@ I am a junior studying Computer Engineering at Purdue University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AZ" alt="AZ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CL" alt="CL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="EC" alt="EC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py" alt="Py" width="40" height="40"/>&nbsp;
 </div>
