@@ -17,11 +17,11 @@
 
 ### :man_technologist: About Me :
 I am a junior studying Computer Engineering at Purdue University.
-- :telescope: I specialize in embedded systems and hardware design/verification.
+- :telescope: I specialize in hardware design/verification.
 
 - :seedling: Exploring new projects utilizing machine learning.
 
-- :zap: I currently work as a part time Programmer Analyst 1 at the West Virginia Office of Technology and work on the STM32 electrical sub-team for Autonomous Motorsports Purdue.
+- :zap: I currently work as an fpga verification intern at Joby Aviation and work on the STM32 electrical sub-team for Autonomous Motorsports Purdue.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-keith-538586249/)
 - ---
